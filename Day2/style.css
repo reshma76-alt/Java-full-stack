@@ -1,0 +1,78 @@
+        /* p{
+            color:cadetblue;
+            border:30px solid black;
+            height:50%;
+            font-weight:100;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        li{
+            color:hotpink;
+            font-family:cursive;
+            display:inline;
+            font-weight:200;
+            font-style:italic;
+            word-spacing:1cm;
+
+        } */
+/* p{
+    color:cadetblue;
+    border:40px solid;
+}
+div{
+    color:brown;
+    font-weight:200;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height:50%;
+    margin-left:auto;
+    
+}
+/* Class Selector */
+/* .c1{
+    color:rgb(130, 134, 238);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:larger;
+    font-weight:200;
+    border:10px solid blue;
+}
+.c2{
+    color:indianred;
+    font:200;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:200;
+    border:10px solid;
+
+} */
+/* id selector */
+/* #p1{
+    color:cornflowerblue;
+    background-color:bisque;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:large;
+}
+#p2{
+    color:chartreuse;
+    background-color:chocolate;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:large;
+}
+#p3{
+    color:lightpink;
+    background-color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:large;
+}
+#p4{
+    color:aqua;
+    background-color:azure;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:large;
+
+} */ 
+ /* universal selector */
+ *{a
+    color:aquamarine;
+    background-color:blue;
+    font-family:cursive;
+    font-size:larger;
+    font-weight:200;
+ }
